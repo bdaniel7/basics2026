@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/docs/">
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Basic.Cli/Basic.Cli.fsproj" />
+    <Project Path="src/Basic.Core/Basic.Core.fsproj" />
+    <Project Path="src/Basic.Pi/Basic.Pi.fsproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Basic.Core.Tests/Basic.Core.Tests.fsproj" />
+  </Folder>
+</Solution>
